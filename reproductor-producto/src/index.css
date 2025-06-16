@@ -1,0 +1,33 @@
+.app {
+    max-width: 900px;
+      margin: 0 auto;
+        font-family: Arial, sans-serif;
+        }
+
+        .video-carousel,
+        .image-carousel {
+          margin-bottom: 20px;
+          }
+
+          .normal-products {
+            display: flex;
+              justify-content: space-between;
+                margin-bottom: 20px;
+                }
+
+                .product {
+                  width: 18%;
+                    background-color: #eee;
+                      padding: 10px;
+                        border-radius: 6px;
+                          text-align: center;
+                          }
+
+                          .special-product {
+                            background-color: #cce5ff;
+                              padding: 15px;
+                                border-radius: 8px;
+                                  text-align: center;
+                                    font-weight: bold;
+                                    }
+                                    
