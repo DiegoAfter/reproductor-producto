@@ -41,6 +41,8 @@ npm run dev      # Inicia servidor en desarrollo
 npm run build    # Compila para producción
 npm run preview  # Sirve el build para ver en local
 
+cd reproductor-producto
+
 
  Responsividad
 Compatible con pantallas grandes, tablets y móviles.
